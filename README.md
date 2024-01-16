@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 ![Welcome to my GitHub](https://github.com/jesseafuye/jesseafuye/blob/trunk/welcome.gif)
 
 [![Afuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesseafuye&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
