@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## My Projects 
 
-- [Pig Game](https://olawale-afuye.netlify.app/](https://github.com/jesseafuye/pig-game)
+- [Pig Game](https://github.com/jesseafuye/pig-game)
 - [Interactive Carddetails](https://github.com/jesseafuye/interactive-carddetails)
 
 
