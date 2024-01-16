@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+## My Projects 
+
+- [Pig Game][(https://olawale-afuye.netlify.app/](https://github.com/jesseafuye/pig-game))
+- [Interactive Carddetails](https://github.com/jesseafuye/interactive-carddetails)
+
+
 
