@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--
-**jesseafuye/jesseafuye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Welcome to my GitHub](https://github.com/jesseafuye/jesseafuye/blob/trunk/welcome.gif)
+
+[![Afuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesseafuye&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=jesseafuye&theme=green&hide_border=true)
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
